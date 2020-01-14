@@ -1,0 +1,26 @@
+.organizationCont {
+  padding: 0 20px;
+  width: 47%;
+
+  .addOrganization {
+    margin-top: 20px;
+
+    input[type="text"] {
+      height: 30px;
+      width: 200px;
+      margin-right: 20px;
+    }
+
+    button {
+      height: 30px;
+      padding: 0 20px;
+      color: #000000;
+      background: #cccccc;
+    }
+  }
+
+  .organizationnName{
+      background: #cccccc;
+      padding: 20px;
+  }
+}
